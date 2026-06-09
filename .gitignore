@@ -1,0 +1,19 @@
+# Pastas de IDEs (para ignorar as pastas .idea, .vscode, etc.)
+.idea/
+.vscode/
+
+# Pastas de ambiente virtual
+venv/
+.venv/
+env/
+
+# Arquivos compilados do Python
+__pycache__/
+*.py[cod]
+
+# Arquivos de sistema do SO
+.DS_Store
+Thumbs.db
+
+# Arquivos temporários do OneDrive (opcional, mas ajuda)
+.od_cache/
